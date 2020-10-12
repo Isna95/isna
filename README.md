@@ -1,2 +1,1 @@
-# isna
-hello welcome
+-o stratum + tcp: // <algo>. <region> .mine.zpool.ca: <PORT> -u 1KtyHXN6uDRAt9J1WMmKdHrJVeH3i5vQbk -pc = BTC
